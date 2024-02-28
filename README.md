@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😁, I'm Julieta Dalla Pozza</h1>
-<h3 align="center">A passionate Full-Stack Developer from Buenos Aires</h3>
+<h3 align="center">A passionate Full-Stack Developer from Buenos Aires Berlin Based</h3>
 
 - 🔭 I’m currently working on **myDesire App**
 
