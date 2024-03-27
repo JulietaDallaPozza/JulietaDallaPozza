@@ -1,9 +1,9 @@
-<h1 align="center">Hi 😁, I'm Julieta Dalla Pozza</h1>
-<h3 align="center">A passionate Full-Stack Developer from Buenos Aires Berlin Based</h3>
+<h1 align="center">Hi 😁 I'm Julieta Dalla Pozza</h1>
+<h3 align="center">A passionate Full-Stack Developer from Buenos Aires - Berlin Based</h3>
 
 - 🔭 I’m currently working on **myDesire App**
 
-- 🐉 I’m currently upgrading my skills with **Build 50 Real World React Projects Udemy**
+- 🐉 I’m as well upgrading my skills with **Build 50 Real World React Projects Udemy**
 
 - 🔗 I’m looking to collaborate on **Exciting projects to grow my career, collaborate, and work in teams. I can bring energy, passion, and a love of visual details**
 
