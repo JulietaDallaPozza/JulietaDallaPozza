@@ -9,7 +9,7 @@
 
 - 🌸 Ask me about **Why I love coding**
 
-- 📠 How to reach me **dallapozzajulieta@gmail.com**
+- 📠 How to reach me **linkedin.com/in/julietadallapozza**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z-GTQfoMBx13q6zEVwa7cBawoBGjVFR_/view?usp=sharing](https://drive.google.com/file/d/1Z-GTQfoMBx13q6zEVwa7cBawoBGjVFR_/view?usp=sharing)
 
