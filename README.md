@@ -11,7 +11,7 @@
 
 - 📠 How to reach me **linkedin.com/in/julietadallapozza**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z-GTQfoMBx13q6zEVwa7cBawoBGjVFR_/view?usp=sharing](https://drive.google.com/file/d/1Z-GTQfoMBx13q6zEVwa7cBawoBGjVFR_/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Z-GTQfoMBx13q6zEVwa7cBawoBGjVFR_/view?usp=sharing](https://julietadallapozza.vercel.app/)]([https://drive.google.com/file/d/1Z-GTQfoMBx13q6zEVwa7cBawoBGjVFR_/view?usp=sharing](https://julietadallapozza.vercel.app/))
 
 - ⚡ Fun fact **I think I'm funny in both languages Spanish and English**
 
