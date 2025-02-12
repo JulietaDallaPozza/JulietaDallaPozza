@@ -10,7 +10,7 @@
 - 📠 How to reach me **linkedin.com/in/julietadallapozza**
 
 - 📄 Learn more about my experiences on my **[Personal Website](https://julietadallapozza.vercel.app/)**
-- 
+  
 - ⚡ Fun fact **I think I'm funny in both languages Spanish and English**
 
 <h3 align="left">Looking forward to collaborating with you!</h3>
