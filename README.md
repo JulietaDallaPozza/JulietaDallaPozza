@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 😁 I'm Julieta Dalla Pozza</h1>
-<h3 align="center">A passionate Cloud Engineering student from Buenos Aires, now based in Berlin</h3>
+<h3 align="center">A passionate Cloud Engineering student from Buenos Aires, Berlin based</h3>
 
 - 🔭 Currently diving deep into **Cloud Engineering** and hands-on projects
 - 🐉 I'm expanding my skills with **Build 50 Real World React Projects on Udemy** to strengthen my development expertise
