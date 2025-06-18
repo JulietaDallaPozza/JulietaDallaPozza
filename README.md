@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! 😁 I'm Julieta Dalla Pozza</h1>
-<h3 align="center">A passionate Cloud Engineering student from Buenos Aires, Berlin based</h3>
+<h3 align="center">AWS Solutions Architect | Full-Stack Developer from Buenos Aires, Berlin based</h3>
 
-- 🔭 Currently diving deep into **Cloud Engineering** and hands-on projects
-- 🐉 I'm expanding my skills with **Build 50 Real World React Projects on Udemy** to strengthen my development expertise
-- 🔗 Eager to collaborate on **cloud-based projects** and **innovative tech solutions** while contributing to team growth. I bring energy, a keen eye for detail, and problem-solving skills to the table.
-- 🌸 Ask me about **why I’m passionate about cloud technologies and how they shape the future**
+- 🔭 Currently diving deep into **** 
+- 🐉 I'm expanding my skills with **y** to strengthen my development expertise
+- 🔗 
+- 🌸 Ask me about **films** I am very passioned about
 - 📠 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/julietadallapozza)**  
 - 📄 Check out my portfolio and experiences on my **[Personal Website](https://julietadallapozza.vercel.app/)**
 - ⚡ Fun Fact: **I can make people laugh in both Spanish and English!**
