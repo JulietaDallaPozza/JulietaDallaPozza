@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 😁</h1>
 <h3 align="center"> Full-Stack Developer from Buenos Aires, Berlin based</h3>
 
-- 🔭 Currently diving deep into **** 
+- 🔭 Currently diving deep into **** New challenges!
 - 🐉 I'm expanding my skills with **y** to strengthen my developer skilss
 - 🔗 
 - 🌸 Ask me about **films** I am very passioned about
