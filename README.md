@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! 😁 I'm Julieta Dalla Pozza</h1>
-<h3 align="center">AWS Solutions Architect | Full-Stack Developer from Buenos Aires, Berlin based</h3>
+<h3 align="center"> Full-Stack Developer from Buenos Aires, Berlin based</h3>
 
 - 🔭 Currently diving deep into **** 
-- 🐉 I'm expanding my skills with **y** to strengthen my development expertise
+- 🐉 I'm expanding my skills with **y** to strengthen my developer skilss
 - 🔗 
 - 🌸 Ask me about **films** I am very passioned about
 - 📠 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/julietadallapozza)**  
