@@ -9,21 +9,25 @@
 - ⚡ Fun Fact: **I can make people laugh in both Spanish and English!**
 
 <h3 align="left">Languages and Tools I Use:</h3>
+<h3 align="left">Languages and Tools I Use:</h3>
 <p align="left">
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
     </a>
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/>
-    </a>
-    <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/powerapps" alt="powerapps" width="40" height="40"/>
+    <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql server" width="40" height="40"/>
     </a>
     <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="assets/powerbi.svg" alt="power bi" width="40" height="40"/>
+    </a>
+    <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="assets/powerapps.svg" alt="power apps" width="40" height="40"/>
     </a>
 </p>
 
