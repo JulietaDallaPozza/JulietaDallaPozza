@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 😁</h1>
+<h1 align="center">😁 Hi there! 😁</h1>
 <h3 align="center"> Full-Stack Developer from Buenos Aires, Berlin based</h3>
 
 - 🔭 Currently diving deep into **new challenges**
