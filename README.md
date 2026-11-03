@@ -1,14 +1,12 @@
 <h1 align="center">Hi there! 😁</h1>
 <h3 align="center"> Full-Stack Developer from Buenos Aires, Berlin based</h3>
 
-- 🔭 Currently diving deep into **** New challenges!
-- 🐉 I'm expanding my skills with **y** to strengthen my developer skilss
-- 🔗 
-- 🌸 Ask me about **films** I am very passioned about
-- 📠 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/julietadallapozza)**  
-- 📄 Check out my portfolio and experiences on my **[Personal Website](https://julietadallapozza.vercel.app/)**
+- 🔭 Currently diving deep into **new challenges**
+- 🐉 I'm expanding my skills at **42 School** with **C fundamentals** to strengthen my developer skills
+- 🌸 Ask me about **films**, I'm very passionate about them
+- 📠 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/julietadallapozza)**
+- 📄 Check out my portfolio and experience on my **[Personal Website](https://julietadallapozza.vercel.app/)**
 - ⚡ Fun Fact: **I can make people laugh in both Spanish and English!**
-
 
 <h3 align="left">Languages and Tools I Use:</h3>
 <p align="left">
